@@ -1,4 +1,4 @@
-
+automatic MindManager for Windows Workflow | tags + attachments offers the most advanced MindManager for Windows workflow, with tags and attachments. Ideal for Windows
 
 
 
